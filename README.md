@@ -1,5 +1,5 @@
 # DL_Assignment3
-RNN Assignment \
+RNN Assignment 
 
 **Required libraries:** \
 numpy \
