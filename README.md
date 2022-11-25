@@ -1,6 +1,6 @@
 # DL_Assignment3
 RNN Assignment \
-\ 
+
 **Required libraries:** \
 numpy \
 pandas \
